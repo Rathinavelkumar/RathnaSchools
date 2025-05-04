@@ -1,5 +1,9 @@
 # The Magic Paintbrush
 
-Lila received a paintbrush that brought her drawings to life. She painted food for the hungry and houses for the homeless. But when a greedy man tried to steal the brush, it stopped working for him.
+In a bustling town, there lived a young artist named **Mina** who dreamed of painting wonders. One rainy afternoon, she discovered an old paintbrush in her grandmother’s attic. When she dipped it in paint, the colors shimmered and sparkled!
 
-Lila continued to use her gift to help others, showing that kindness makes magic real.
+Mina soon realized that anything she painted with the magic brush came to life. She painted birds that sang, flowers that danced, and even a rainbow that arched across the sky.
+
+But Mina used her gift wisely, painting only to help others and bring joy. When the townsfolk saw her kindness, they celebrated her magical art, and Mina’s heart overflowed with happiness.
+
+> **Moral of the story:** Use your talents to bring happiness and help others.
