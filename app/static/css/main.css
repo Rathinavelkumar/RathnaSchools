@@ -325,3 +325,89 @@ footer {
 .carousel-dark .carousel-control-next-icon {
     filter: invert(1) grayscale(1) brightness(2);
 }
+
+/* Python & Java Reading Pane - Enhanced for Study */
+.python-reading-pane, .java-reading-pane {
+    font-family: 'Segoe UI', 'Roboto', Arial, sans-serif;
+    background: #fff;
+    color: #222;
+    line-height: 1.7;
+    font-size: 1.09rem;
+    padding: 2rem 2.5rem;
+    border-radius: 1.5rem;
+    box-shadow: 0 2px 16px 0 rgba(80,120,200,0.07);
+    max-width: 900px;
+    margin: 0 auto 2rem auto;
+    text-align: justify;
+}
+.python-reading-pane h1, .java-reading-pane h1 {
+    text-align: center;
+    font-size: 2.1rem;
+    font-weight: 800;
+    color: #1a237e;
+    margin-bottom: 1.5rem;
+}
+.python-reading-pane h2, .java-reading-pane h2,
+.python-reading-pane h3, .java-reading-pane h3 {
+    text-align: left;
+    font-weight: 700;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    color: #234;
+}
+.python-reading-pane ul, .java-reading-pane ul,
+.python-reading-pane ol, .java-reading-pane ol {
+    text-align: left;
+    margin-left: 1.5rem;
+    margin-bottom: 1.2rem;
+}
+.python-reading-pane li, .java-reading-pane li {
+    margin-bottom: 0.6rem;
+    font-size: 1.06rem;
+}
+.python-reading-pane code, .java-reading-pane code {
+    background: #f4f4f4;
+    color: #c7254e;
+    padding: 0.1em 0.3em;
+    border-radius: 4px;
+    font-size: 1em;
+}
+.python-reading-pane pre, .java-reading-pane pre {
+    background: #f7f8fa;
+    border: 1px solid #e0e7ef;
+    border-radius: 8px;
+    padding: 1rem;
+    margin: 1.2rem 0;
+    font-size: 1em;
+    overflow-x: auto;
+}
+.python-reading-pane .callout, .java-reading-pane .callout {
+    background: #e8f0fe;
+    border-left: 5px solid #1a237e;
+    padding: 1rem 1.2rem;
+    margin: 1.2rem 0;
+    border-radius: 8px;
+    color: #234;
+    font-size: 1.04rem;
+}
+.python-reading-pane table, .java-reading-pane table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1.5rem 0;
+}
+.python-reading-pane th, .java-reading-pane th,
+.python-reading-pane td, .java-reading-pane td {
+    border: 1px solid #e0e7ef;
+    padding: 0.7em 1em;
+    text-align: left;
+}
+.python-reading-pane th, .java-reading-pane th {
+    background: #f0f4fa;
+    font-weight: 700;
+}
+@media (max-width: 700px) {
+    .python-reading-pane, .java-reading-pane {
+        padding: 1rem 0.2rem;
+        font-size: 1rem;
+    }
+}
