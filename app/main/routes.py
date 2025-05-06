@@ -21,3 +21,7 @@ def privacy():
 @main.route('/sitemap.xml')
 def sitemap():
     return send_from_directory(os.path.join(current_app.root_path, '..'), 'sitemap.xml', mimetype='application/xml')
+
+@main.route('/ads.txt')
+def ads_txt():
+    return send_from_directory(os.path.join(current_app.root_path, '..'), 'ads.txt', mimetype='text/plain')
