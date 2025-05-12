@@ -25,3 +25,7 @@ def sitemap():
 @main.route('/ads.txt')
 def ads_txt():
     return send_from_directory(os.path.join(current_app.root_path, '..'), 'ads.txt', mimetype='text/plain')
+
+@main.route('/robots.txt')
+def robots_txt():
+    return send_from_directory(os.path.join(current_app.root_path, '..'), 'robots.txt', mimetype='text/plain')

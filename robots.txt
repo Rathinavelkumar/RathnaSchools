@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Sitemap: https://rathnaschools.com/sitemap.xml
+
+# Allow Google AdSense to crawl all content
+User-agent: Mediapartners-Google
+Allow: /
+
+# Allow Googlebot to crawl all content
+User-agent: Googlebot
+Allow: /
